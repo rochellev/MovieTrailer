@@ -11,7 +11,7 @@ toy_story = media.Movie("Toy Story",
 #print(toy_story.storyline)
 
 avatar = media.Movie("Avatar",
-                     "https://en.wikipedia.org/wiki/The_Disaster_Artist_(film)#/media/File:TheDisastorArtistTeaserPoster.jpg",
+                     "https://filmwonk.files.wordpress.com/2009/12/avatar-poster-neytiri.jpg",
                      "https://www.youtube.com/watch?v=d1_JBMrrYw8")
 
 #print(avatar.storyline)
