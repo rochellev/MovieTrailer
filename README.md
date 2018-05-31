@@ -1,5 +1,7 @@
 # Movie Trailer Website
-## by Rochelle Roberts
-Source code for a Movie Trailer website.
+Source code for a Movie Trailer website. 
 
-#What You Need
+# Environment Set Up
+Python 2.7 was used
+Access to the Internet to load images and play movie trailers
+
