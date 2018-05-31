@@ -3,7 +3,7 @@ import media
 """ entertainment_center has all the instances of Movie for the website.
     Modified from Udacity's Programing Foundations with Python coursework. """
 
-#calling the init for several movies
+#instantiating several Movie objects, URLS from 5/30/2018
 toy_story = media.Movie("Toy Story",
                         "https://vignette.wikia.nocookie.net/disney/images/8/80/Toy_Story_-_Poster.jpg/revision/latest?cb=20150108180742",
                         "https://www.youtube.com/watch?v=4KPTXpQehio") 
@@ -41,7 +41,7 @@ gone_girl = media.Movie("Gone Girl",
                         "https://www.youtube.com/watch?v=esGn-xKFZdU")
 
 
-#list of initialized objects for the fresh tomatoes argument
+#list of movie objects for the fresh tomatoes argument
 movies = [toy_story, avatar, disaster_artist, django,
           get_out, lobster, split, master, gone_girl]
 
