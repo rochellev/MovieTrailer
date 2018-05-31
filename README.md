@@ -1,8 +1,9 @@
 # Movie Trailer Website
-Source code for a Movie Trailer website. 
+Produces a static HTML page with movie posters and trailers. 
 
-## Environment Set Up
-* Python 2.7 was used
-* Access to the Internet to load images and play movie trailers
+## What You Need
+* Python 2.7
+* Internet Access
 
-## License
+## Contributors
+Udacity provided fresh_tomatoes.py
